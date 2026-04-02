@@ -36,10 +36,10 @@ keywords = []
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/AnonR2k3/pyospackage"
-"Source Code" = "https://github.com/AnonR2k3/pyospackage"
-"Bug Tracker" = "https://github.com/AnonR2k3/pyospackage/issues"
-Documentation = "https://github.com/AnonR2k3/pyospackage/blob/main/README.md"
+Homepage = "https://github.com/AnonR2k3/pyospackage-anonr"
+"Source Code" = "https://github.com/AnonR2k3/pyospackage-anonr"
+"Bug Tracker" = "https://github.com/AnonR2k3/pyospackage-anonr/issues"
+Documentation = "https://github.com/AnonR2k3/pyospackage-anonr/blob/main/README.md"
 Download = "https://pypi.org/project/pyospackage/#files"
 
 [project.optional-dependencies]
